@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  cor-primaria: #ff4800;
+  cor-secundaria: #1f1f2e;
+  cor-texto: #757575;
+  cor-branca: #ffffff;
+}
