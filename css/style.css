@@ -322,7 +322,7 @@ select:focus {
 
 .cifrao {
   font-size: 18px;
-  color: #6c757d;
+  color: var(--cor-texto);
   position: relative;
   top: -30px;
   margin-right: 4px;
@@ -343,7 +343,7 @@ select:focus {
 
 .features li {
   margin-bottom: 10px;
-  color: #6c757d;
+  color: var(--cor-texto);
 }
 
 .pricing-btn {
