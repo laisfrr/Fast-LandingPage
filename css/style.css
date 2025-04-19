@@ -63,7 +63,7 @@
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.767), rgba(0, 0, 0, 0.795)),
-    url('/img/header.jpg');
+    url('./img/header.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
