@@ -359,13 +359,6 @@ select:focus {
   background-color: var(--cor-secundaria);
 }
 
-body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  text-align: center;
-  background-color: #f4f4f4;
-  padding: 20px;
-}
-
 .team-section {
   position: relative;
   margin: 20px auto;
@@ -376,12 +369,14 @@ body {
   color: #ff6600;
   font-size: 15px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .team-subtitle {
   font-size: 35px;
   font-weight: bold;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .team-container {
@@ -445,12 +440,14 @@ body {
   color: #ff6600;
   font-size: 15px;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .team-subtitle2{
   font-size: 35px;
   font-weight: bold;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .post-list {
