@@ -15,7 +15,7 @@ Esta é uma avaliação do projeto Geração Tech 2.0 para testar os conheciment
   <h3>Mobile</h3>
   <img  src="img/faster-mobile.png" width="200" />
   <h3>Tablet</h3>
-  <img  src="img/faster-tablet.png" width="250" />
+  <img  src="img/Faster-tablet.png" width="250" />
 </div>
 <div align="left">
 <hr>
